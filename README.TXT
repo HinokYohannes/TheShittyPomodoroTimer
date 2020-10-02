@@ -1,12 +1,8 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
 
-PROJECT TITLE:
+
+PROJECT TITLE:TheShittyPomodoroTimer
 PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+VERSION or DATE: 0.002 / 02 - Oct - 2020
+HOW TO START THIS PROJECT: Type in your operating system console. Java and the associating filename
+AUTHORS: Hinok Yohannes
+USER INSTRUCTIONS: If you run the program the chance of your computer impluding increases slightly. If you view the source code you might get eye cancer.
