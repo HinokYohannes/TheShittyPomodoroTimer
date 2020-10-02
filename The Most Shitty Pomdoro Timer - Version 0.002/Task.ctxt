@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Task
+comment1.params=
+comment1.target=void\ printTaskTimer()
+comment2.params=
+comment2.target=void\ showAllTasks()
+comment3.params=
+comment3.target=void\ pickTasks()
+comment4.params=
+comment4.target=void\ seeTaskTimer()
+comment5.params=
+comment5.target=java.lang.String\ getCurrentTask()
+comment6.params=
+comment6.target=int\ getCurrentIndex()
+comment6.text=public\ int\ getTime()\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ int\ currentIndex\ \=\ indexOf(getCurrentTask());\r\n\ \ \ \ \ \ \ \ return\ \r\n\ \ \ \ }\r\n
+numComments=7
