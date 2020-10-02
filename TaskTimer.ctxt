@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TaskTimer
+comment1.params=
+comment1.target=void\ run()
+comment2.params=
+comment2.target=int\ getSeconds()
+comment3.params=
+comment3.target=int\ getHours()
+comment4.params=
+comment4.target=int\ getMinutes()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
